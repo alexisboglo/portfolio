@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Journaux de session : ils appartiennent au poste, jamais au dépôt
+conversations-journal.md
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Brouillons et exports temporaires
+*.bak
+*.tmp
